@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "DM Sans";
+    src:
+      url(./DM_Sans/DMSans_18pt-Regular.ttf);
+    font-weight: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "DM Sans";
+    src:
+      url(./DM_Sans/DMSans_18pt-Bold.ttf);
+    font-weight: bold;
+    font-display: swap;
+  }
