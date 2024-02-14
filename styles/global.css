@@ -8,6 +8,7 @@ body {
   margin: 0 auto;
   font-family: "DM Sans", sans-serif;
   text-underline-position: under; /* Добавил смещение подчеркивания для всех ссылок */
+  background-color: rgba(25, 25, 25, 1);
 }
 
 h1,
