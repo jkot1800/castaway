@@ -64,3 +64,14 @@ input[type="number"]::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
+
+/* button hover effect */
+button {
+  transition: 1s;
+}
+
+button:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
